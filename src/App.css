@@ -12,21 +12,25 @@
 }
 
 .header {
+  padding: 10px;
   grid-area: header;
   background-color: red;
 }
 
 .nav {
+  padding: 20px;
   grid-area: nav;
-  background-color: blue;
+  background-color: orange;
 }
 
 .content {
+  padding: 20px;
   grid-area: content;
   background-color: green;
 }
 
 .footer {
+  padding: 10px;
   grid-area: footer;
   background-color: yellow;
 }
